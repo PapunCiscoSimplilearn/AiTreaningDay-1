@@ -1,0 +1,10 @@
+2026-11-18 06:23:17,760 INFO Home endpoint accessed
+2026-11-18 06:24:12,565 INFO Health check successful
+2026-11-18 06:24:16,107 INFO Health check successful
+2026-11-18 06:25:26,885 ERROR EmployeeNotFound: employee_id=76
+2026-11-18 06:36:13,874 ERROR EmployeeNotFound: employee_id=83
+2026-11-18 06:36:28,293 ERROR EmployeeNotFound: employee_id=83
+2026-11-18 06:36:32,842 ERROR EmployeeNotFound: employee_id=83
+2026-11-18 06:39:26,290 INFO Home endpoint accessed
+2026-11-18 06:39:28,176 INFO Home endpoint accessed
+2026-11-18 06:39:36,376 INFO Home endpoint accessed
